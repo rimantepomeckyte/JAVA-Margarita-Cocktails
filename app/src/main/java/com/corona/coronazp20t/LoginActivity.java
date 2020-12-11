@@ -41,7 +41,7 @@ public class LoginActivity extends AppCompatActivity {
         loginbatonas.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //cia bus vygdomas kodas po batono paspaudimo
+                //cia bus vykdomas kodas po batono paspaudimo
                /* Toast.makeText(LoginActivity.this,
                         "Prisijungimo Vardas:"+usernametext.getText().toString()+"\n"+
                         "Slaptazodis:"+passwordtext.getText().toString(),
